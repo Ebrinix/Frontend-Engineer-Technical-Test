@@ -1,0 +1,254 @@
+[
+    {
+        "id": "19ce3f5b-13c1-4a94-bd46-243a1e833353",
+        "imgSrc": "/nft1.jpeg",
+        "name": "Pixelated Dreams",
+        "creator": "Jonathon McGlynn",
+        "avatar": {
+            "key1": "avatar_1.jpg",
+            "key2": "avatar_22.jpg",
+            "key3": "avatar_14.jpg"
+        },
+        "isVerified": false,
+        "range": "40 - 80",
+        "amount": 1.3
+    },
+    {
+        "id": "dde83876-219c-49f5-b8c2-f0718414e8d8",
+        "imgSrc": "/nft2.jpeg",
+        "name": "Digital Odyssey",
+        "creator": "Juanita McClure",
+        "avatar": {
+            "key1": "avatar_11.jpg",
+            "key2": "avatar_21.jpg",
+            "key3": "avatar_12.jpg"
+        },
+        "isVerified": true,
+        "range": "30 -70",
+        "amount": 0.7
+    },
+    {
+        "id": "386ede64-f353-40dd-ac64-51f6adce914a",
+        "imgSrc": "/nft3.jpeg",
+        "name": "Crypto Cosmos",
+        "creator": "Casey Lemke",
+        "avatar": {
+            "key1": "avatar_15.jpg",
+            "key2": "avatar_5.jpg",
+            "key3": "avatar_7.jpg"
+        },
+        "isVerified": true,
+        "range": "15 -40",
+        "amount": 2.3
+    },
+    {
+        "id": "bbb6d257-d866-4e43-9d89-fcaf4c5859e6",
+        "imgSrc": "/nft4.jpeg",
+        "name": "Ether Empires",
+        "creator": "Ramona Bins",
+        "avatar": {
+            "key1": "avatar_9.jpg",
+            "key2": "avatar_1.jpg",
+            "key3": "avatar_6.jpg"
+        },
+        "isVerified": false,
+        "range": "15 -25",
+        "amount": 0.6
+    },
+    {
+        "id": "40ef5124-f03c-4667-9e50-d72450bb0cf4",
+        "imgSrc": "/nft5.jpeg",
+        "name": "Neon Nexus",
+        "creator": "Ramona Bins",
+        "avatar": {
+            "key1": "avatar_13.jpg",
+            "key2": "avatar_12.jpg",
+            "key3": "avatar_14.jpg"
+        },
+        "isVerified": false,
+        "range": "24 - 60",
+        "amount": 1.4
+    },
+    {
+        "id": "96edd921-19ce-44eb-90bd-c289066212ab",
+        "imgSrc": "/nft6.jpeg",
+        "name": "Cyber Crusaders",
+        "creator": "Francisco Stoltenberg",
+        "avatar": {
+            "key1": "avatar_18.jpg",
+            "key2": "avatar_17.jpg",
+            "key3": "avatar_10.jpg"
+        },
+        "isVerified": true,
+        "range": "13 - 50",
+        "amount": 3.1
+    },
+    {
+        "id": "37210b35-aab6-4c77-9850-3a2f3e112cc1",
+        "imgSrc": "/nft7.jpeg",
+        "name": "Virtual Visions",
+        "creator": "Marian O'Keefe",
+        "avatar": {
+            "key1": "avatar_18.jpg",
+            "key2": "avatar_22.jpg",
+            "key3": "avatar_13.jpg"
+        },
+        "isVerified": false,
+        "range": "45 - 50",
+        "amount": 0.8
+    },
+    {
+        "id": "88aa6be8-d2d2-485b-a6db-c5b2ad8fbc7b",
+        "imgSrc": "/nft8.jpeg",
+        "name": "Code Chronicles",
+        "creator": "Lucille Will PhD",
+        "avatar": {
+            "key1": "avatar_12.jpg",
+            "key2": "avatar_15.jpg",
+            "key3": "avatar_16.jpg"
+        },
+        "isVerified": false,
+        "range": "15 -35",
+        "amount": 3.5
+    },
+    {
+        "id": "74f3e447-f723-4a8c-b6ca-0e73809a3742",
+        "imgSrc": "/nft9.jpeg",
+        "name": "Digital Delights",
+        "creator": "Max Jenkins",
+        "avatar": {
+            "key1": "avatar_5.jpg",
+            "key2": "avatar_4.jpg",
+            "key3": "avatar_20.jpg"
+        },
+        "isVerified": false,
+        "range": "15 -40",
+        "amount": 0.2
+    },
+    {
+        "id": "a3e3f429-88c5-461b-9022-0caec9fc67e0",
+        "imgSrc": "/nft10.jpeg",
+        "name": "Crypto Creatures",
+        "creator": "Joan Yundt",
+        "avatar": {
+            "key1": "avatar_11.jpg",
+            "key2": "avatar_21.jpg",
+            "key3": "avatar_22.jpg"
+        },
+        "isVerified": true,
+        "range": "12 - 50",
+        "amount": 4.2
+    },
+    {
+        "id": "c89b12e3-d4d9-4997-919c-0ee22347dacd",
+        "imgSrc": "/nft11.jpeg",
+        "name": "Pixel Pals",
+        "creator": "Elaine Oberbrunner",
+        "avatar": {
+            "key1": "avatar_12.jpg",
+            "key2": "avatar_5.jpg",
+            "key3": "avatar_6.jpg"
+        },
+        "isVerified": true,
+        "range": "23 - 40",
+        "amount": 0.7
+    },
+    {
+        "id": "06f9e86e-ad5c-40f6-ad0a-be13d63ba14a",
+        "imgSrc": "/nft12.jpeg",
+        "name": "Digital Dystopia",
+        "creator": "Charlotte Romaguera",
+        "avatar": {
+            "key1": "avatar_13.jpg",
+            "key2": "avatar_18.jpg",
+            "key3": "avatar_14.jpg"
+        },
+        "isVerified": true,
+        "range": "21 - 50",
+        "amount": 0.9
+    },
+    {
+        "id": "389d35c9-d8f1-4ce8-b655-ca7a46381f7b",
+        "imgSrc": "/nft13.jpeg",
+        "name": "Techno Titans",
+        "creator": "Bessie Cronin",
+        "avatar": {
+            "key1": "avatar_13.jpg",
+            "key2": "avatar_12.jpg",
+            "key3": "avatar_14.jpg"
+        },
+        "isVerified": true,
+        "range": "23 - 70",
+        "amount": 2.9
+    },
+    {
+        "id": "5db554e1-376c-42f7-ab7c-0e50822afbef",
+        "imgSrc": "/nft14.jpeg",
+        "name": "Crypto Delights",
+        "creator": "Russell Weimann",
+        "avatar": {
+            "key1": "avatar_3.jpg",
+            "key2": "avatar_6.jpg",
+            "key3": "avatar_8.jpg"
+        },
+        "isVerified": true,
+        "range": "15 -45",
+        "amount": 1.3
+    },
+    {
+        "id": "45d138f9-8afb-4770-8fda-0dc29819a58f",
+        "imgSrc": "/nft15.jpeg",
+        "name": "Neon Nights",
+        "creator": "Fredrick Boyle",
+        "avatar": {
+            "key1": "avatar_15.jpg",
+            "key2": "avatar_4.jpg",
+            "key3": "avatar_2.jpg"
+        },
+        "isVerified": true,
+        "range": "20 - 50",
+        "amount": 0.7
+    },
+    {
+        "id": "0f7c6b62-67ff-4a93-9891-4ed9c6eb8f42",
+        "imgSrc": "/nft16.jpeg",
+        "name": "Virtual Ventures",
+        "creator": "Abel Volkman",
+        "avatar": {
+            "key1": "avatar_11.jpg",
+            "key2": "avatar_21.jpg",
+            "key3": "avatar_14.jpg"
+        },
+        "isVerified": false,
+        "range": "10 -25",
+        "amount": 2.8
+    },
+    {
+        "id": "9a11a57c-e849-49e2-a43f-f7e83145f610",
+        "imgSrc": "/nft17.jpeg",
+        "name": "Digital Dazzle",
+        "creator": "Stewart Lang",
+        "avatar": {
+            "key1": "avatar_15.jpg",
+            "key2": "avatar_12.jpg",
+            "key3": "avatar_16.jpg"
+        },
+        "isVerified": true,
+        "range": "15 -30",
+        "amount": 4.1
+    },
+    {
+        "id": "0938e1e0-6223-4541-8441-6fc7f5d11b52",
+        "imgSrc": "/nft18.jpeg",
+        "name": "Crypto Chronicles",
+        "creator": "Lila Wuckert",
+        "avatar": {
+            "key1": "avatar_11.jpg",
+            "key2": "avatar_22.jpg",
+            "key3": "avatar_12.jpg"
+        },
+        "isVerified": false,
+        "range": "40 - 50",
+        "amount": 0.3
+    }
+]
